@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sebastian Tianying Zhu
+title: Tianying Zhu
 
 # Full name (for SEO)
 first_name: Tianying
@@ -23,8 +23,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Software Engineering
-  - Computational Linguistics
-  - Information Retrieval
+  - Internet of Things
+  - Machine Learning
 
 # Education to show in About widget
 education:
@@ -69,5 +69,3 @@ highlight_name: true
 ---
 
 Hey there! I am Tianying (Sebastian) Zhu, a first year master student in Computer Science at [UCLA](https://www.ucla.edu) 💙. Currently, I am interning at [BreezeML](https://breezeml.ai), a VC-backed ML infrastructure company, as a Software Engineer. Before, I graduated from the [University of Illinois, Urbana-Champaign](https://illinois.edu) 🧡 with a Bachelor of Science degree in Computer Science and Economics. I have also interned at [CreateLab](https://createlab.cs.illinois.edu) as a research assistant.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
