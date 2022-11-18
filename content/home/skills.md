@@ -35,14 +35,15 @@ subtitle:
 #  name: "Surfing"
 #  description: "90%"
 ---
-&nbsp;
-&nbsp;
-Programming Language: 
+
+&NewLine;
+&NewLine;
+(__Programming Language__): 
   - Java, C, C++, SQL, Python, R, LaTeX  
 
-&nbsp;
-&nbsp;
+&NewLine;
+&NewLine;
 
-Frameworks and Tools:
+(__Frameworks and Tools__):
   - Kubernetes, Docker Hub, AWS, Git, Maven, TensorFlow, Numpy, Linux, Azure 
 
