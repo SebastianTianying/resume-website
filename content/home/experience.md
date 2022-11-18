@@ -30,9 +30,9 @@ experience:
     date_start: Oct 2022
     date_end: ''
     description: |2-
-        - Go (Programming Language) 
-        - Kubernetes 
-        - Amazon Web Services (AWS)
+        * Go (Programming Language) 
+        * Kubernetes 
+        * Amazon Web Services (AWS)
 
   - title: Research Intern
     company: University of Illinois Research Park
@@ -42,11 +42,11 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: |2-
-      - Advised by Prof. Yongjoo Park
-      - Developed Airphant: a Cloud-native Search Engine with a Statistical Indexing System, which maintains a randomized multi‐layer structure and analyzes over 70k lines of data
-      - Implemented components,such as the multi‐layer hash table and the stop word mapper, in Java; unit‐tested tasks with JUnit; peer reviewed Pull Requests; containerized Airphant in Azure
-      - Investigated pros and cons of state‐of‐the‐art Learned Index publications to identify possible research directions
-      - Resulted in the paper Reaching Cloud Data with Learned Cold Index
+      * Advised by Prof. Yongjoo Park
+      * Developed Airphant: a Cloud-native Search Engine with a Statistical Indexing System, which maintains a randomized multi‐layer structure and analyzes over 70k lines of data
+      * Implemented components,such as the multi‐layer hash table and the stop word mapper, in Java; unit‐tested tasks with JUnit; peer reviewed Pull Requests; containerized Airphant in Azure
+      * Investigated pros and cons of state‐of‐the‐art Learned Index publications to identify possible research directions
+      * Resulted in the paper Reaching Cloud Data with Learned Cold Index
       
 design:
   columns: '2'
