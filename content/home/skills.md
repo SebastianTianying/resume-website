@@ -12,6 +12,12 @@ weight: 30
 title: Skills
 subtitle:
 
+Programming Language: 
+  - Java, C, C++, SQL, Python, R, LaTeX  
+  
+Frameworks and Tools:
+  - Kubernetes, Docker Hub, AWS, Git, Maven, TensorFlow, Numpy, Linux, Azure 
+
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -35,6 +41,5 @@ subtitle:
 #  name: "Surfing"
 #  description: "90%"
 ---
-Programming Language - Java, C, C++, SQL, Python, R, LaTeX  
+ 
 
-Frameworks and Tools - Kubernetes, Docker Hub, AWS, Git, Maven, TensorFlow, Numpy, Linux, Azure 
