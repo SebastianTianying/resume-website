@@ -25,9 +25,25 @@ feature:
     icon_pack: fab
     name: Docker
   - description: 
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: python
+    icon_pack: fab
+    name: Python
+  - description: 
+    icon: C
+    icon_pack: fab
+    name: C++
+  - description: 
+    icon: aws
+    icon_pack: fab
+    name: AWS
+  - description: 
+    icon: github
+    icon_pack: fab
+    name: Git
+  - description: 
+    icon: github
+    icon_pack: fab
+    name: Git  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
