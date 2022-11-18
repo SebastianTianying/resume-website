@@ -15,35 +15,11 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-  - description: 
-    icon: java
-    icon_pack: fab
-    name: Java
-  - description: 
-    icon: docker
-    icon_pack: fab
-    name: Docker
-  - description: 
-    icon: python
-    icon_pack: fab
-    name: Python
-  - description: 
-    icon: C
-    icon_pack: fab
-    name: C++
-  - description: 
-    icon: aws
-    icon_pack: fab
-    name: AWS
-  - description: 
-    icon: github
-    icon_pack: fab
-    name: Git
-  - description: 
-    icon: github
-    icon_pack: fab
-    name: Git  
+#feature:
+#  - description: 
+#    icon: java
+#    icon_pack: fab
+#    name: Java
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -59,3 +35,5 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+Programming Language - Java, C, C++, SQL, Python, R, LaTeX
+Frameworks and Tools - Kubernetes, Docker Hub, AWS, Git, Maven, TensorFlow, Numpy, Linux, Azure
