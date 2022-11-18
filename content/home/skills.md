@@ -12,10 +12,10 @@ weight: 30
 title: Skills
 subtitle:
 
-Programming Language: 
+- Programming Language: 
   - Java, C, C++, SQL, Python, R, LaTeX  
-  
-Frameworks and Tools:
+
+- Frameworks and Tools:
   - Kubernetes, Docker Hub, AWS, Git, Maven, TensorFlow, Numpy, Linux, Azure 
 
 # Showcase personal skills or business features.
