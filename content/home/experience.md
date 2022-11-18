@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Los Angeles, California
-    date_start: 'Oct 2022'
+    date_start: '2022-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
