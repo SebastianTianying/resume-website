@@ -38,12 +38,12 @@ subtitle:
 
 &NewLine;
 &NewLine;
-(__Programming Language__): 
+__Programming Language__: 
   - Java, C, C++, SQL, Python, R, LaTeX  
 
 &NewLine;
 &NewLine;
 
-(__Frameworks and Tools__):
+__Frameworks and Tools__:
   - Kubernetes, Docker Hub, AWS, Git, Maven, TensorFlow, Numpy, Linux, Azure 
 
