@@ -75,4 +75,4 @@ Hey there! I am Tianying (Sebastian) Zhu, a first year master student in Compute
 
 To learn more about who I am as a person, please visit my [other website](https://imsebastiantianyingzhu.com) at imsebastiantianyingzhu.com. 
 
-I am actively seeking Summer 2023 Software Development Engineer Internships. Please reach out via email or [Linkedin](https://www.linkedin.com/in/seb-tianying-zhu/) if you have any opportunities!
+I am actively seeking Summer 2023 Software Development Engineer Internships. Please reach out via email or [Linkedin](https://www.linkedin.com/in/seb-tianying-zhu/) if you have any opportunities! 
