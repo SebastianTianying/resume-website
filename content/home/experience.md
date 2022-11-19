@@ -38,7 +38,7 @@ experience:
   - title: Research Assistant
     company: The Caesar Research Group
     company_url: 'https://cs.illinois.edu/research/areas/systems-and-networking'
-    company_logo: uiuc-logo
+    company_logo: uiuc
     location: Champaign, Illinois
     date_start: '2021-09-01'
     date_end: '2021-12-31'
