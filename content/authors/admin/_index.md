@@ -71,8 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-Hey there! I am Tianying (Sebastian) Zhu, a first year master student in Computer Science at [UCLA](https://www.ucla.edu) 💙. Currently, I am interning at [BreezeML](https://breezeml.ai), a VC-backed ML infrastructure company, as a Software Engineer. Before, I graduated from the [University of Illinois, Urbana-Champaign](https://illinois.edu) 🧡 with a Bachelor of Science degree in Computer Science and Economics. I have also interned at [CreateLab](https://createlab.cs.illinois.edu) as a research assistant.
+Hey there! I am Tianying (Sebastian) Zhu, a first year master student in [Computer Science](https://www.cs.ucla.edu) at [UCLA](https://www.ucla.edu) 💙. Currently, I am interning at [BreezeML](https://breezeml.ai), a VC-backed ML infrastructure company, as a Software Engineer. Before, I graduated from the [University of Illinois, Urbana-Champaign](https://illinois.edu) 🧡 with a Bachelor of Science degree in [Computer Science](https://cs.illinois.edu) and Economics. I have also interned at [CreateLab](https://createlab.cs.illinois.edu) as a research assistant.
 
-To learn more about who I am as a person, please visit my [other website](https://imsebastiantianyingzhu.com) at imsebastiantianyingzhu.com. 
+Fun fact: I am also a travel blogger and car enthusiast (street cars and F1 racing). I used to write blog posts and hotel reviews for a travel blog with over 30k followers. To learn more about who I am as a person, please visit my [other website](https://imsebastiantianyingzhu.com) at imsebastiantianyingzhu.com. 
 
-I am actively seeking Summer 2023 Software Development Engineer Internships. Please reach out via email or [Linkedin](https://www.linkedin.com/in/seb-tianying-zhu/) if you have any opportunities! 
+I am actively seeking Summer 2023 Software Development Engineer Internships. Please reach out via email or [Linkedin](https://www.linkedin.com/in/seb-tianying-zhu/) if you have any opportunities!
