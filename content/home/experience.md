@@ -38,7 +38,7 @@ experience:
   - title: Research Intern
     company: CreateLab
     company_url: 'https://createlab.cs.illinois.edu'
-    company_logo: org-x
+    company_logo: uiuc-logo
     location: Champaign, Illinois
     date_start: '2021-05-01'
     date_end: '2021-08-31'
