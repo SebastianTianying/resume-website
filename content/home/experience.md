@@ -35,6 +35,18 @@ experience:
         * Kubernetes
         * Amazon Web Services (AWS)
 
+  - title: Research Assistant
+    company: The Caesar Research Group
+    company_url: 'https://cs.illinois.edu/research/areas/systems-and-networking'
+    company_logo: uiuc-logo2
+    location: Champaign, Illinois
+    date_start: '2021-09-01'
+    date_end: '2021-12-31'
+    description: |2-
+        * Advised by Prof. Matthew Caesar
+        * Focused on a large scale Internet of Things (IoT) software research project
+        * Worked on Device Emulation
+
   - title: Research Intern
     company: CreateLab
     company_url: 'https://createlab.cs.illinois.edu'
@@ -43,8 +55,9 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-08-31'
     description: |2-
+        * Advised by Prof. Yongjoo Park
         * Developed Airphant: a Cloud-native Search Engine with a Statistical Indexing System, which maintains a randomized multi‐layer structure and analyzes over 70k lines of data
-        * Implemented components,such as the multi‐layer hash table and the stop word mapper, in Java; unit‐tested tasks with JUnit; peer reviewed Pull Requests; containerized Airphant in Azure
+        * Implemented components, such as the multi‐layer hash table and the stop word mapper, in Java; unit‐tested tasks with JUnit; peer reviewed Pull Requests; containerized Airphant in Azure
         * Investigated pros and cons of state‐of‐the‐art Learned Index publications to identify possible research directions
         * Resulted in the paper Reaching Cloud Data with Learned Cold Index
 design:
