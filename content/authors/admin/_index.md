@@ -25,6 +25,7 @@ interests:
   - Software Engineering
   - Internet of Things
   - Machine Learning
+  - Data Systems
 
 # Education to show in About widget
 education:
