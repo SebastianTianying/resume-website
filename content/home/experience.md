@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer Intern
     company: BreezeML
     company_url: 'https://breezeml.ai'
-    company_logo: org-gc
+    company_logo: breezeml
     location: Los Angeles, California
     date_start: '2022-10-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
     company: CreateLab
     company_url: 'https://createlab.cs.illinois.edu'
     company_logo: org-x
-    location: California
+    location: Champaign, Illinois
     date_start: '2021-05-01'
     date_end: '2021-08-31'
     description: |2-
