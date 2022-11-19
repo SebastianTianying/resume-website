@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer Intern
     company: BreezeML
     company_url: 'https://breezeml.ai'
-    company_logo: breezeml
+    company_logo: 1662158468822.jpeg
     location: Los Angeles, California
     date_start: '2022-10-01'
     date_end: ''
