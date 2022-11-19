@@ -34,8 +34,7 @@ education:
       year: 09/2022 - 06/2024
     - course: Bachelor of Science in Computer Science and Economics
       institution: University of Illinois, Urbana-Champaign
-      year: 08/2018 - 05/2022
-      gpa: 3.91/4.00
+      year: 08/2018 - 05/2022, 3.91/4.00
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
