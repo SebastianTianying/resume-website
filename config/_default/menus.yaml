@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: https://imsebastiantianyingzhu.com/projects/
     weight: 30
   - name: Experience
     url: '#experience'
