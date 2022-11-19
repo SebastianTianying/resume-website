@@ -55,7 +55,7 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-08-31'
     description: |2-
-        * Advised by Prof. Yongjoo Park
+        * Advised by Prof. [Yongjoo Park](https://yongjoopark.com)
         * Developed Airphant: a Cloud-native Search Engine with a Statistical Indexing System, which maintains a randomized multi‐layer structure and analyzes over 70k lines of data
         * Implemented components, such as the multi‐layer hash table and the stop word mapper, in Java; unit‐tested tasks with JUnit; peer reviewed Pull Requests; containerized Airphant in Azure
         * Investigated pros and cons of state‐of‐the‐art Learned Index publications to identify possible research directions
