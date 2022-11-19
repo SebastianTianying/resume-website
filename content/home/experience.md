@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Software Engineer Intern
     company: BreezeML
-    company_url: 'breezeml.ai'
+    company_url: 'https://breezeml.ai'
     company_logo: org-gc
     location: Los Angeles, California
     date_start: '2022-10-01'
@@ -35,15 +35,18 @@ experience:
         * Kubernetes
         * Amazon Web Services (AWS)
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research Intern
+    company: CreateLab
+    company_url: 'https://createlab.cs.illinois.edu'
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    date_start: '2021-05-01'
+    date_end: '2021-08-31'
+    description: |2-
+        * Developed Airphant: a Cloud-native Search Engine with a Statistical Indexing System, which maintains a randomized multi‐layer structure and analyzes over 70k lines of data
+        * Implemented components,such as the multi‐layer hash table and the stop word mapper, in Java; unit‐tested tasks with JUnit; peer reviewed Pull Requests; containerized Airphant in Azure
+        * Investigated pros and cons of state‐of‐the‐art Learned Index publications to identify possible research directions
+        * Resulted in the paper Reaching Cloud Data with Learned Cold Index
 design:
   columns: '2'
 ---
