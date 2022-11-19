@@ -7,11 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
-    url: https://imsebastiantianyingzhu.com/projects/
-    weight: 30
   - name: Experience
     url: '#experience'
+    weight: 30
+  - name: Projects
+    url: https://imsebastiantianyingzhu.com/projects/
     weight: 50
   - name: Relevant Coursework
     url: https://imsebastiantianyingzhu.com/relevant-coursework/
