@@ -24,17 +24,16 @@ date_format: Jan 2006
 experience:
   - title: Software Engineer Intern
     company: BreezeML
-    company_url: ''
+    company_url: 'breezeml.ai'
     company_logo: org-gc
     location: Los Angeles, California
     date_start: '2022-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Skills include:
+        * Go (Programming Language)
+        * Kubernetes
+        * Amazon Web Services (AWS)
 
   - title: Professor of Semiconductor Physics
     company: University X
