@@ -39,7 +39,7 @@ subtitle:
 &NewLine;
 &NewLine;
 __Programming Language__: 
-  - Java, C, C++, SQL, Python, R, LaTeX  
+  - Python，Go, Java, C, C++, SQL, R, LaTeX  
 
 &NewLine;
 &NewLine;
