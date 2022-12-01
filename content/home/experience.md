@@ -33,6 +33,7 @@ experience:
         Skills include:
         * Go (Programming Language)
         * Kubernetes
+        * Kubeflow
         * Amazon Web Services (AWS)
 
   - title: Research Assistant
