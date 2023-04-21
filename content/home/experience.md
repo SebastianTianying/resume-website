@@ -34,8 +34,8 @@ experience:
         * Go (Programming Language)
         * Kubernetes
         * Kubeflow
-        * PyTorch
-        * Amazon Web Services (AWS) EC2
+        * PyTorch Distributed Data Parallel
+        * Amazon Web Services (AWS) EC2 & EKS
 
   - title: Research Assistant
     company: The Caesar Research Group
