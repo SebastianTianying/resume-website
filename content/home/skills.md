@@ -45,5 +45,5 @@ __Programming Language__:
 &NewLine;
 
 __Frameworks and Tools__:
-  - Kubernetes, Docker Hub, AWS EC2, Git, Maven, TensorFlow, Numpy, Linux, Azure 
+  - Kubernetes, k9s, Docker Hub, AWS EC2 & EKS, Git, Pytorch DDP, TensorFlow, Maven, Numpy, Linux, Azure 
 
