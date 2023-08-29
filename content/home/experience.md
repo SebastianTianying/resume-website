@@ -28,14 +28,17 @@ experience:
     company_logo: breezeml
     location: Los Angeles, California
     date_start: '2022-10-01'
-    date_end: ''
+    date_end: '2023-06-15'
     description: |2-
+        Received letter of recommendation from one of the direct supervisors (as displayed on my [LinkedIn profile page](https://www.linkedin.com/in/seb-tianying-zhu/))
+
         Skills include:
         * Go (Programming Language)
         * Kubernetes
         * Kubeflow
-        * PyTorch Distributed Data Parallel
+        * Hugging Face Transformers
         * Amazon Web Services (AWS) EC2 & EKS
+        * PyTorch Distributed Data Parallel & Torch Distributed Elastic
 
   - title: Research Assistant
     company: The Caesar Research Group
