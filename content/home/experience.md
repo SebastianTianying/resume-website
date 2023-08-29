@@ -30,7 +30,7 @@ experience:
     date_start: '2022-10-01'
     date_end: '2023-06-15'
     description: |2-
-        Received letter of recommendation from one of the direct supervisors (as displayed on my [LinkedIn profile page](https://www.linkedin.com/in/seb-tianying-zhu/))
+        Received letter of recommendation from one of my direct supervisors (as displayed on my [LinkedIn profile page](https://www.linkedin.com/in/seb-tianying-zhu/))
 
         Skills include:
         * Go (Programming Language)
